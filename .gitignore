@@ -1,11 +1,6 @@
-CMFD
-CMFD-lowerRes
-CMFD-lowetRes
-lowerResRAWIMAGESET
-VAL
+Images
+Models
+HistoryData
 variables
 venv
-128x128
-128x128_preprocess
-128x128_preprocess_flip
-128x128_preprocess_flip_morephotos
+
